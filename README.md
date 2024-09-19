@@ -1,2 +1,2 @@
 
-https://shaheedk.github.io/shaheedk/
+https://shaheedk.github.io/shaheedk-portfolio/
