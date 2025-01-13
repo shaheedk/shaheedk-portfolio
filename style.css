@@ -9,7 +9,9 @@
 }
 
 
-  
+  html,body{
+      overflow-x:hidden;
+  }
 
 .navbar {
     background-color: #0d1b2a;
